@@ -30,7 +30,7 @@ Expected Outcome:
 ---
 ##  Architecture_Digram
 
-![Architecture](images/architecture-digram(1).png)
+<img width="1557" height="556" alt="image" src="https://github.com/user-attachments/assets/0af4e814-b234-4cc7-93b7-05ed620c98c7" />
 
 ---
 ## 📁 Project Structure
