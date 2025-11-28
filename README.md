@@ -30,7 +30,7 @@ Expected Outcome:
 ---
 ##  Architecture_Digram
 
-![Architecture](images/architecture-digram.png)
+![Architecture](images/architecture-digram(1).png)
 
 ---
 ## 📁 Project Structure
